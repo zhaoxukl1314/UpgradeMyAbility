@@ -11,7 +11,7 @@
         android:scaleY="1">
 
         <path
-            android:pathData="M12,12 L24,24 c0,0 "
+            android:pathData="M12,12 L24,24"
             android:strokeColor="#5D5D5D"
             android:strokeWidth="1">
         </path>
