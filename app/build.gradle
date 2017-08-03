@@ -37,5 +37,6 @@ dependencies {
     compile 'com.facebook.rebound:rebound:0.3.8'
     compile 'com.android.support:appcompat-v7:25.3.1'
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:design:23.+'
+    compile 'com.android.support:design:25.+'
+    compile 'com.github.chrisbanes:PhotoView:2.0.0'
 }
